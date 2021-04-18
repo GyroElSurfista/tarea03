@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Complejo
+comment1.params=real\ imag
+comment1.target=Complejo(double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ mostrar()
+numComments=3
